@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "AzureResourceGroup7", "AzureResourceGroup7\AzureResourceGroup7.deployproj", "{B8D7E618-4AC4-4065-8AB2-3C1C86901309}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleApp", "ExampleApp\ExampleApp.csproj", "{F2FF7098-2C80-4501-A98B-87518502ADEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D7E618-4AC4-4065-8AB2-3C1C86901309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D7E618-4AC4-4065-8AB2-3C1C86901309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D7E618-4AC4-4065-8AB2-3C1C86901309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D7E618-4AC4-4065-8AB2-3C1C86901309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FF7098-2C80-4501-A98B-87518502ADEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FF7098-2C80-4501-A98B-87518502ADEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FF7098-2C80-4501-A98B-87518502ADEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FF7098-2C80-4501-A98B-87518502ADEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
